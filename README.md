@@ -20,6 +20,27 @@
 
 | 名称 | 效果 | 类型 | 技术栈 | 文件 |
 | --- | --- | --- | --- | --- |
+| 果冻大脑 Brain Jelly | ![brain-jelly](assets/brain-jelly.jpg) | 交互网页 / 软体果冻 | three.js · WebGL2 · XPBD 四面体软体 · 单文件 HTML | [prompts/brain-jelly.md](prompts/brain-jelly.md) |
+| 猛犸冰霜要塞 Mammoth Frost Fortress | ![voxel-mammoth-fortress](assets/voxel-mammoth-fortress.jpg) | 交互网页 / 体素 3D 场景 | three.js · 体素 · 单文件 HTML | [prompts/voxel-mammoth-fortress.md](prompts/voxel-mammoth-fortress.md) |
+| 雨中武士对决 Samurai Duel in the Rain | — | 交互网页 / 像素风场景 | three.js · 像素后处理 · 合成音效 | [prompts/samurai-duel-in-the-rain.md](prompts/samurai-duel-in-the-rain.md) |
+| 火山凤凰岛 Volcano Phoenix Island | ![voxel-phoenix-island](assets/voxel-phoenix-island.jpg) | 交互网页 / 体素 3D 场景 | three.js · 体素 · 单文件 HTML | [prompts/voxel-phoenix-island.md](prompts/voxel-phoenix-island.md) |
+| 海龟浮岛 Turtle Island | ![voxel-turtle-island](assets/voxel-turtle-island.jpg) | 交互网页 / 体素 3D 场景 | three.js · 体素 · 单文件 HTML | [prompts/voxel-turtle-island.md](prompts/voxel-turtle-island.md) |
+| 红树林之光 Mangrove Lights | ![mangrove-lights](assets/mangrove-lights.jpg) | 交互网页 / 3D 微缩场景 | three.js r160 · WebGL · 水体着色器 · 单文件 HTML | [prompts/mangrove-lights.md](prompts/mangrove-lights.md) |
+| 果冻泳池 Jelly Pool | ![jelly-pool](assets/jelly-pool.jpg) | 交互网页 / 软体果冻 | three.js r128 · WebGL2 · Web Worker · XPBD · 单文件 HTML | [prompts/jelly-pool.md](prompts/jelly-pool.md) |
+| 像素冰球馆 Pixel Ice Hockey Arena | ![pixel-ice-hockey](assets/pixel-ice-hockey.jpg) | 交互网页 / 像素风场景 | three.js · 像素后处理 · 冰球规则模拟 | [prompts/pixel-ice-hockey.md](prompts/pixel-ice-hockey.md) |
+| 果冻蓝枪鱼 Marlin Jelly | ![marlin-jelly](assets/marlin-jelly.jpg) | 交互网页 / 软体果冻 | WebGPU · XPBD 四面体软体 · SDF | [prompts/marlin-jelly.md](prompts/marlin-jelly.md) |
+| 深水区 Deep End | ![deep-end](assets/deep-end.jpg) | 交互网页 / 像素风场景 | three.js · 像素后处理 · 跳水物理 | [prompts/deep-end.md](prompts/deep-end.md) |
+| 锦鲤果冻 Koi Jelly | ![koi-jelly](assets/koi-jelly.jpg) | 交互网页 / 果冻微缩场景 | WebGPU · WGSL · 浅水模拟 · 单文件 HTML | [prompts/koi-jelly.md](prompts/koi-jelly.md) |
+| 果冻双髻鲨 Hammerhead Jelly | ![hammerhead-jelly](assets/hammerhead-jelly.jpg) | 交互网页 / 软体果冻 | WebGPU · XPBD 四面体软体 · SDF | [prompts/hammerhead-jelly.md](prompts/hammerhead-jelly.md) |
+| 双层果冻章鱼 Octopus Jelly (Two-Layer) | ![octopus-jelly-two-layer](assets/octopus-jelly-two-layer.jpg) | 交互网页 / 软体果冻 | WebGPU · XPBD 四面体软体 | [prompts/octopus-jelly-two-layer.md](prompts/octopus-jelly-two-layer.md) |
+| 院子街球 Streetball Courtyard | ![streetball-courtyard](assets/streetball-courtyard.jpg) | 交互网页 / 像素风场景 | three.js · 像素后处理 · 篮球物理 · 单 HTML | [prompts/streetball-courtyard.md](prompts/streetball-courtyard.md) |
+| 果冻海豚 Dolphin Jelly | ![dolphin-jelly](assets/dolphin-jelly.jpg) | 交互网页 / 软体果冻 | WebGPU · WGSL · XPBD 四面体软体 | [prompts/dolphin-jelly.md](prompts/dolphin-jelly.md) |
+| 球台之王 King of the Table | ![king-of-the-table](assets/king-of-the-table.jpg) | 交互网页 / 像素风场景 | three.js r160 · 像素后处理 · 乒乓球物理 · 单文件 HTML | [prompts/king-of-the-table.md](prompts/king-of-the-table.md) |
+| 网球俱乐部 Love All | ![love-all](assets/love-all.jpg) | 交互网页 / 像素风场景 | three.js · 像素后处理 · 网球物理 | [prompts/love-all.md](prompts/love-all.md) |
+| 果冻座头鲸 Whale Jelly | ![whale-jelly](assets/whale-jelly.jpg) | 交互网页 / 软体果冻 | WebGPU · XPBD 四面体软体 · 单文件 HTML | [prompts/whale-jelly.md](prompts/whale-jelly.md) |
+| 大坝果冻 Dam Jelly | ![dam-jelly](assets/dam-jelly.jpg) | 交互网页 / 果冻微缩场景 | WebGPU · WGSL · 浅水模拟 · 单文件 HTML | [prompts/dam-jelly.md](prompts/dam-jelly.md) |
+| 毛绒鲸鲨 Plush Whale Shark | ![plush-whale-shark](assets/plush-whale-shark.jpg) | 交互网页 / 毛绒软体 | WebGPU · 毛发壳层 · XPBD 软体 | [prompts/plush-whale-shark.md](prompts/plush-whale-shark.md) |
+| 围攻灰沼堡 Siege of Greymoor | ![siege-of-greymoor](assets/siege-of-greymoor.jpg) | 交互网页 / 体素 3D 场景 | three.js r160 · 体素 · 结构坍塌 · 单文件 HTML | [prompts/siege-of-greymoor.md](prompts/siege-of-greymoor.md) |
 | 发射果冻 Launch Jelly | ![launch-jelly](assets/launch-jelly.jpg) | 交互网页 / 果冻微缩场景 | WebGPU · WGSL · 浅水模拟 · 单文件 HTML | [prompts/launch-jelly.md](prompts/launch-jelly.md) |
 | 金库街 Vault Street | ![vault-street](assets/vault-street.jpg) | 交互网页 / 像素风场景 | three.js r160 · 像素后处理 · 单文件 HTML | [prompts/vault-street.md](prompts/vault-street.md) |
 | 风向袋机场 Windsock Field | ![windsock-field](assets/windsock-field.jpg) | 交互网页 / 像素风场景 | three.js r160 · 像素后处理 · 飞行物理 · 单文件 HTML | [prompts/windsock-field.md](prompts/windsock-field.md) |
